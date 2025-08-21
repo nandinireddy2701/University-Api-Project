@@ -47,7 +47,17 @@ The project was extended to **Project 2**, where the API data was integrated wit
 - Retrieves course details and assigned instructors.  
 - **Query Parameters:**  
   - `page` → page number (default: 1)  
-  - `page_size` → records per page (default: 10)  
+  - `page_size` → records per page (default: 10)
+
+--------
+
+### Test endpoints via Postman or browser:
+
+http://127.0.0.1:5001/departments
+
+http://127.0.0.1:5001/students
+
+http://127.0.0.1:5001/courses
 
 --------
 
@@ -80,15 +90,6 @@ The project was extended to **Project 2**, where the API data was integrated wit
 - Find courses taken by *Peter Lynch* in Fall 2023.  
 - Find instructor of *Hands-on Data Science* and semester taught.  
 
---------
-
-### Test endpoints via Postman or browser:
-
-http://127.0.0.1:5001/departments
-
-http://127.0.0.1:5001/students
-
-http://127.0.0.1:5001/courses
 
 
 
