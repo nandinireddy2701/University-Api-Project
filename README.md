@@ -69,12 +69,12 @@ The project was extended to **Project 2**, where the API data was integrated wit
 --------
 
 ###  Queries Performed  
-- **Redis:**  
+**Redis:**  
 - Retrieve Computer Science department.  
 - Retrieve student *Peter Lynch*.  
 - Retrieve course *Data Engineering*.  
 
-- **MongoDB:**  
+ **MongoDB:**  
 - Count total documents in each collection.  
 - Find instructors in the Computer Science department.  
 - Find courses taken by *Peter Lynch* in Fall 2023.  
@@ -89,6 +89,7 @@ http://127.0.0.1:5001/departments
 http://127.0.0.1:5001/students
 
 http://127.0.0.1:5001/courses
+
 
 
 
