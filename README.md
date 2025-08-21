@@ -26,7 +26,7 @@ The project was extended to **Project 2**, where the API data was integrated wit
 
 --------
 
-##  API Endpoints  
+##  API Endpoints (Project 1)
 
 ### 1. Departments API  
 **Endpoint:** `GET /departments`  
@@ -89,6 +89,7 @@ http://127.0.0.1:5001/departments
 http://127.0.0.1:5001/students
 
 http://127.0.0.1:5001/courses
+
 
 
 
